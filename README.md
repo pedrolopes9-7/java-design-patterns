@@ -5,7 +5,7 @@ Check out my blog series about Design Patterns in Java at:
 - [Design Pattern Series](https://pedrolopesdev.com/series/design-patterns/)
 
 Summary:
-- [Singleton Design Pattern](#Singleton Design Pattern)
+- [Singleton Design Pattern](#singleton-design-pattern)
 
 ### [Singleton Design Pattern](https://pedrolopesdev.com/post/java-singleton-design-pattern-code-examples/)
 ![UML Design of Singleton Pattern](./src/main/resources/singleton-pattern.png)
